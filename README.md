@@ -16,6 +16,10 @@ Then generate your new project:
 yo mos
 ```
 
+The generator has multiple project types.  You will be able to choose from
+
+* `ES6 Module`
+
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
@@ -28,9 +32,9 @@ yo mos
 MIT © [Samuel Attard](https://www.samuelattard.com)
 
 
-[npm-image]: https://badge.fury.io/js/generator-mos.svg
+[npm-image]: https://badge.fury.io/js/generator-mos.svg?
 [npm-url]: https://npmjs.org/package/generator-mos
-[travis-image]: https://travis-ci.org/MarshallOfSound/generator-mos.svg?branch=master
-[travis-url]: https://travis-ci.org/MarshallOfSound/generator-mos
-[daviddm-image]: https://david-dm.org/MarshallOfSound/generator-mos.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/MarshallOfSound/generator-mos
+[travis-image]: https://travis-ci.org/MarshallOfSound/Generator-MoS.svg?branch=master
+[travis-url]: https://travis-ci.org/MarshallOfSound/Generator-MoS
+[daviddm-image]: https://david-dm.org/MarshallOfSound/Generator-MoS.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/MarshallOfSound/Generator-MoS
